@@ -117,7 +117,7 @@
           <li>
             <NavigationLink
               color="hover:text-red-500"
-              id="extras-colophon"
+              id="extras-kofi"
               to="https://ko-fi.com/creepycrappyshow"
               external="true"
             >
