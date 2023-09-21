@@ -33,7 +33,6 @@
               Timeline
             </NavigationLink>
           </li>
-
         </ul>
       </div>
     </div>
