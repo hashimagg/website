@@ -1,0 +1,132 @@
+<template>
+  <nav class="grid grid-cols-2 md:grid-cols-4 gap-y-12 uppercase">
+    <div class="space-y-12">
+      <div>
+        <HeadingSans>
+          Map
+        </HeadingSans>
+        <ul role="list" class="mt-6 space-y-3">
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="map-information"
+              to="/map/information"
+            >
+              Information
+            </NavigationLink>
+          </li>
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="map-assets"
+              to="/map/assets"
+            >
+              Assets
+            </NavigationLink>
+          </li>
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="map-timeline"
+              to="/map/timeline"
+            >
+              Timeline
+            </NavigationLink>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+    <div class="space-y-12">
+      <div>
+        <HeadingSans>
+          Media
+        </HeadingSans>
+        <ul role="list" class="mt-6 space-y-3">
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="media-screenshots"
+              to="/media/screenshots"
+            >
+              Screenshots
+            </NavigationLink>
+          </li>
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="media-videos"
+              to="/media/videos"
+            >
+              Videos
+            </NavigationLink>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="space-y-12">
+      <div>
+        <HeadingSans>
+          Server
+        </HeadingSans>
+        <ul role="list" class="mt-6 space-y-3">
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="server-information"
+              to="/server/information"
+            >
+              Information
+            </NavigationLink>
+          </li>
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="server-mission"
+              to="/server/mission"
+            >
+              Mission
+            </NavigationLink>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="space-y-12">
+      <div>
+        <HeadingSans>
+          Extras
+        </HeadingSans>
+        <ul role="list" class="mt-6 space-y-3">
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="extras-has"
+              to="/extras/has"
+            >
+              H.A.S ™
+            </NavigationLink>
+          </li>
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="extras-colophon"
+              to="/extras/colophon"
+            >
+              Colophon
+            </NavigationLink>
+          </li>
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="extras-colophon"
+              to="https://ko-fi.com/creepycrappyshow"
+              external="true"
+            >
+              Ko-fi Tip
+            </NavigationLink>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</template>

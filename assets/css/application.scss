@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'alagardmedium';
+  src: url('~/assets/fonts/alagard.woff2') format('woff2'),
+  url('~/assets/fonts/alagard.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pixel_operatorregular';
+  src: url('~/assets/fonts/pixeloperator.woff2') format('woff2'),
+  url('~/assets/fonts/pixeloperator.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes blink {
+  from, to {
+    color: transparent;
+  }
+
+  50% {
+    @apply text-white;
+  }
+}
+
+@keyframes hashima-logo {
+  0% {
+    stroke-dashoffset: 4000;
+  }
+
+  50% {
+    stroke-dashoffset: 0;
+  }
+
+  75% {
+    stroke-dashoffset: 4000;
+  }
+}
+
+body {
+  font-weight: normal;
+  font-style: normal;
+}
+
+body::before {
+  background-image: url('~/assets/images/noise.gif');
+  background-repeat: repeat;
+  background-position: center center;
+  bottom: 0;
+  content: '';
+  display: block;
+  left: 0;
+  opacity: .05;
+  pointer-events: none;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 50;
+}
+
+.pattern {
+  background-image: url("data:image/svg+xml,%3Csvg width='6' height='6' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%239C92AC' fill-opacity='0.4' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E");
+
+  &-hover {
+    &:hover {
+      background-image: url("data:image/svg+xml,%3Csvg width='6' height='6' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%239C92AC' fill-opacity='0.4' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E");
+    }
+  }
+}
+
+.router-link-active {
+  @apply text-red-500;
+}
+
+#hashima {
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 4000;
+  animation: hashima-logo 26666ms cubic-bezier(0.2, 1, 0.2, 1) infinite;
+
+  line,
+  polyline,
+  path {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: none;
+    stroke: white;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 50;
+  }
+}
+
+.blinking-cursor {
+  @apply text-white;
+
+  font-weight: 100;
+  font-size: 16px;
+  animation: 1s blink step-end infinite;
+}
+
+.pixelated {
+  image-rendering: pixelated;
+}
