@@ -210,6 +210,17 @@
       </NavigationLink> by Aldemona<br />
       And more in development.
     </Detail>
+    <Detail name="Events System">
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-events-system"
+        to="https://twitter.com/livingxdead666"
+      >
+        LIVINGxDEAD
+      </NavigationLink>
+    </Detail>
     <Detail name="Tools">
       <NavigationLink
         class="underline"
@@ -396,7 +407,18 @@
       </NavigationLink> by Onno<br />
     </Detail>
     <Detail name="Thanks">
-      Big Grampa, Bwais, Ceremor, DrummerxDan, Helkhiana, JohnMclane, KubeloLive, LAD, leitin, LIVINGxDEAD, Milans, OlipollyZ, Mattty-Ice, podrivo, skett, ThcMonkee, TheFungaltoes, TheGreatJeremy, TLaCroix, TrueDolphin, TuckChaylorZ, uNleashedjp, V, VirusomanVS, Vivi
+      Big Grampa, Beeker, Bwais, Ceremor, DrummerxDan, Helkhiana, JohnMclane, KubeloLive, LAD, leitin, LIVINGxDEAD, Milans, OlipollyZ, Mattty-Ice, podrivo, skett, ThcMonkee, TheFungaltoes, TheGreatJeremy, TLaCroix, TrueDolphin, TuckChaylorZ, uNleashedjp, V, VirusomanVS, Vivi
+    </Detail>
+    <Detail name="Brand Kit">
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-brand-downloads"
+        to="https://drive.google.com/drive/folders/1th2N6MJz3vZcxPQxUsp1fe7hG4rErMBK?usp=sharing"
+      >
+        Download Hashima Islands Brand Kit
+      </NavigationLink>
     </Detail>
   </CardDetail>
   <CardImage class="col-span-2">
@@ -405,7 +427,7 @@
         title="Join the Discord Channel"
         description="for full access on the development, updates, screenshots, videos and more."
         idPrimary="cta-discord"
-        labelPrimary="Join Discord Channel"
+        labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
         idSecondary="cta-twitter"
         labelSecondary="Follow @hashimagg on Twitter"

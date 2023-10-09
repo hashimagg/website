@@ -40,7 +40,7 @@
         title="Join the Discord Channel"
         description="for full access on the development, updates, screenshots, videos and more."
         idPrimary="cta-discord"
-        labelPrimary="Join Discord Channel"
+        labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
         idSecondary="cta-twitter"
         labelSecondary="Follow @hashimagg on Twitter"

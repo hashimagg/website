@@ -28,9 +28,6 @@
     <Detail name="Contaminated Zones">
       1
     </Detail>
-    <Detail name="Objects Placed">
-      145.581
-    </Detail>
   </CardDetail>
   <CardImage class="col-span-2">
     <div class="bg-[#1b2838]/50 pattern w-full">
@@ -61,7 +58,7 @@
     <Detail name="City">
       Haruki City (春木市), is a city located in West Hashima (西端島).
     </Detail>
-    <Detail name="Points of Interest">
+    <Detail name="POI">
       <div class="space-y-4">
         <div>
           Eiko Stadium (エイコースタジアム), is a football stadium located West of Haruki City (春木市).
@@ -84,7 +81,7 @@
     <Detail name="City">
       Yasuo City (康夫市), is a city located in East Hashima (東端島).
     </Detail>
-    <Detail name="Points of Interest">
+    <Detail name="POI">
       Okubo Airport (大久保空港), is an international airport located North of Yasuo City (康夫市).
     </Detail>
   </CardDetail>
@@ -119,6 +116,9 @@
     <Detail name="Complex">
       Tsukomogami Complex (付喪神), is a complex located in Path (道).
     </Detail>
+    <Detail name="Complex">
+      Shinkai Complex (神界), is a complex located in Path (道).
+    </Detail>
   </CardDetail>
   <CardText>
     <HeadingSans>
@@ -132,8 +132,16 @@
     </HeadingSans>
   </CardText>
   <CardDetail>
-    <Detail name="Complex">
-      Shinkai Complex (神界), is a complex located in Path (道).
+    <Detail name="POI">
+      <NavigationLink
+        color="hover:text-red-500"
+        class="underline"
+        external="true"
+        id="colophon-powwws"
+        to="https://poww.ws"
+      >
+        POWWWS Laboratory
+      </NavigationLink> Diag, is a testing site located in Away (遠さ).
     </Detail>
   </CardDetail>
   <CardText>
@@ -165,7 +173,7 @@
     </Detail>
     <Detail name="New Hashima (90%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 85%" />
+        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
       </div>
     </Detail>
     <Detail name="Path (90%)">
@@ -195,7 +203,7 @@
         title="Join the Discord Channel"
         description="for full access on the development, updates, screenshots, videos and more."
         idPrimary="cta-discord"
-        labelPrimary="Join Discord Channel"
+        labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
         idSecondary="cta-twitter"
         labelSecondary="Follow @hashimagg on Twitter"

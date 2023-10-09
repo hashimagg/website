@@ -2,7 +2,7 @@
 
 Website for Hashima Islands, a Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), a abandoned island off Nagasaki.
 
-#### [Visit website 🡥](https://hashima.gg)
+#### [Visit Website 🡥](https://hashima.gg)
 
 ---
 

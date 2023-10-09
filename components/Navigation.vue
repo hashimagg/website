@@ -18,19 +18,19 @@
           <li>
             <NavigationLink
               color="hover:text-red-500"
-              id="map-assets"
-              to="/map/assets"
+              id="map-timeline"
+              to="/map/timeline"
             >
-              Assets
+              Timeline
             </NavigationLink>
           </li>
           <li>
             <NavigationLink
               color="hover:text-red-500"
-              id="map-timeline"
-              to="/map/timeline"
+              id="map-assets"
+              to="/map/assets"
             >
-              Timeline
+              Assets
             </NavigationLink>
           </li>
         </ul>
