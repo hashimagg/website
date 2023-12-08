@@ -171,14 +171,14 @@
         <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 65%" />
       </div>
     </Detail>
-    <Detail name="New Hashima (90%)">
+    <Detail name="New Hashima (100%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
+        <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
       </div>
     </Detail>
-    <Detail name="Path (90%)">
+    <Detail name="Path (100%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
+        <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
       </div>
     </Detail>
     <Detail name="Away (90%)">
@@ -186,14 +186,14 @@
         <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
       </div>
     </Detail>
-    <Detail name="Obake (40%)">
-      <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 40%" />
-      </div>
-    </Detail>
-    <Detail name="Economy (75%)">
+    <Detail name="Obake (75%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
         <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 75%" />
+      </div>
+    </Detail>
+    <Detail name="Economy (90%)">
+      <div class="overflow-hidden rounded-full bg-zinc-800">
+        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
       </div>
     </Detail>
   </CardDetail>
