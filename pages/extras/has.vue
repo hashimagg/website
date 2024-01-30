@@ -31,9 +31,9 @@
         idPrimary="cta-discord"
         labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
-        idSecondary="cta-twitter"
-        labelSecondary="Follow @hashimagg on Twitter"
-        urlSecondary="https://twitter.com/hashimagg"
+        idSecondary="cta-x"
+        labelSecondary="Follow @hashimagg on X"
+        urlSecondary="https://x.com/hashimagg"
       />
     </div>
   </CardImage>

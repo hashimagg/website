@@ -12,7 +12,7 @@
       About
     </HeadingSans><br />
     <HeadingSerif class="text-5xl">
-      DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), a abandoned island off Nagasaki.
+      DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), an abandoned island off Nagasaki.
     </HeadingSerif>
   </CardText>
   <CardImage class="col-span-2">
@@ -37,9 +37,9 @@
         idPrimary="cta-download-steam"
         labelPrimary="Subscribe on Steam Workshop"
         urlPrimary="https://steamcommunity.com/sharedfiles/filedetails/?id=2781560371"
-        idSecondary="cta-download-twitter"
-        labelSecondary="Follow @hashimagg on Twitter"
-        urlSecondary="https://twitter.com/hashimagg"
+        idSecondary="cta-download-x"
+        labelSecondary="Follow @hashimagg on X"
+        urlSecondary="https://x.com/hashimagg"
       />
     </div>
   </CardImage>
@@ -161,14 +161,14 @@
     </Detail>
   </CardDetail>
   <CardDetail class="col-span-2">
-    <Detail name="West Hashima (65%)">
+    <Detail name="West Hashima (80%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 65%" />
+        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 80%" />
       </div>
     </Detail>
-    <Detail name="East Hashima (65%)">
+    <Detail name="East Hashima (75%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 65%" />
+        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 75%" />
       </div>
     </Detail>
     <Detail name="New Hashima (100%)">
@@ -181,19 +181,19 @@
         <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
       </div>
     </Detail>
-    <Detail name="Away (90%)">
+    <Detail name="Away (100%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
+        <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
       </div>
     </Detail>
-    <Detail name="Obake (75%)">
+    <Detail name="Obake (100%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 75%" />
+        <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
       </div>
     </Detail>
-    <Detail name="Economy (90%)">
+    <Detail name="Economy (95%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
+        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 95%" />
       </div>
     </Detail>
   </CardDetail>
@@ -205,9 +205,9 @@
         idPrimary="cta-discord"
         labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
-        idSecondary="cta-twitter"
-        labelSecondary="Follow @hashimagg on Twitter"
-        urlSecondary="https://twitter.com/hashimagg"
+        idSecondary="cta-x"
+        labelSecondary="Follow @hashimagg on X"
+        urlSecondary="https://x.com/hashimagg"
       />
     </div>
   </CardImage>

@@ -6,7 +6,7 @@
   />
   <CardDetail class="col-span-2">
     <Detail name="About">
-      DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), a abandoned island off Nagasaki created by
+      DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), an abandoned island off Nagasaki created by
       <NavigationLink
         class="underline"
         color="hover:text-red-500"
@@ -216,7 +216,7 @@
         color="hover:text-red-500"
         external="true"
         id="colophon-events-system"
-        to="https://twitter.com/livingxdead666"
+        to="https://x.com/livingxdead666"
       >
         LIVINGxDEAD
       </NavigationLink>
@@ -407,7 +407,7 @@
       </NavigationLink> by Onno<br />
     </Detail>
     <Detail name="Thanks">
-      Big Grampa, Beeker, Bwais, Ceremor, DrummerxDan, Helkhiana, JohnMclane, KubeloLive, LAD, leitin, LIVINGxDEAD, Milans, OlipollyZ, Mattty-Ice, podrivo, skett, ThcMonkee, TheFungaltoes, TheGreatJeremy, TLaCroix, TrueDolphin, TuckChaylorZ, uNleashedjp, V, VirusomanVS, Vivi
+      Big Grampa, Beeker, Bwais, Ceremor, Dez, DrummerxDan, Helkhiana, JohnMclane, Josh, KubeloLive, LAD, leitin, LIVINGxDEAD, Mattty-Ice, Milans, Mystt, OlipollyZ, podrivo, Quinzi, Repearz, skett, Sunday, ThcMonkee, TheFungaltoes, TheGreatJeremy, TLaCroix, TrueDolphin, TuckChaylorZ, uNleashedjp, V, VirusomanVS, Vivi
     </Detail>
     <Detail name="Brand Kit">
       <NavigationLink
@@ -429,9 +429,9 @@
         idPrimary="cta-discord"
         labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
-        idSecondary="cta-twitter"
-        labelSecondary="Follow @hashimagg on Twitter"
-        urlSecondary="https://twitter.com/hashimagg"
+        idSecondary="cta-x"
+        labelSecondary="Follow @hashimagg on X"
+        urlSecondary="https://x.com/hashimagg"
       />
     </div>
   </CardImage>

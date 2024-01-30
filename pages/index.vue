@@ -7,7 +7,7 @@
   <CardMain
     class="rounded-b-none sm:rounded-bl-lg sm:rounded-br-none pattern-hover"
     color="group-hover:text-red-500"
-    description="DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), a abandoned island off Nagasaki."
+    description="DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), an abandoned island off Nagasaki."
     id="index-map-information"
     label="Map"
     title="Hashima Islands"

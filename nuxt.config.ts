@@ -16,7 +16,7 @@ export default defineNuxtConfig({
         {
           hid: 'description',
           name: 'description',
-          content: 'DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), a abandoned island off Nagasaki.'
+          content: 'DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), an abandoned island off Nagasaki.'
         },
         {
           hid: 'og:type', property: 'og:type', content: 'website'
@@ -27,7 +27,7 @@ export default defineNuxtConfig({
         {
           hid: 'og:description',
           property: 'og:description',
-          content: 'DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), a abandoned island off Nagasaki.'
+          content: 'DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), an abandoned island off Nagasaki.'
         },
         {
           hid: 'og:image',
@@ -48,7 +48,7 @@ export default defineNuxtConfig({
         {
           hid: 'twitter:description',
           name: 'twitter:description',
-          content: 'DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), a abandoned island off Nagasaki.'
+          content: 'DayZ Modded Map inspired by Hashima, commonly called Gunkanjima (meaning Battleship Island), an abandoned island off Nagasaki.'
         },
         {
           hid: 'twitter:image',

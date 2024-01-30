@@ -29,9 +29,9 @@
         idPrimary="cta-download-steam"
         labelPrimary="Subscribe on Steam Workshop"
         urlPrimary="https://steamcommunity.com/sharedfiles/filedetails/?id=3001202420"
-        idSecondary="cta-download-twitter"
-        labelSecondary="Follow @hashimagg on Twitter"
-        urlSecondary="https://twitter.com/hashimagg"
+        idSecondary="cta-download-x"
+        labelSecondary="Follow @hashimagg on X"
+        urlSecondary="https://x.com/hashimagg"
       />
     </div>
   </CardImage>
@@ -78,9 +78,9 @@
         idPrimary="cta-discord"
         labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
-        idSecondary="cta-twitter"
-        labelSecondary="Follow @hashimagg on Twitter"
-        urlSecondary="https://twitter.com/hashimagg"
+        idSecondary="cta-x"
+        labelSecondary="Follow @hashimagg on X"
+        urlSecondary="https://x.com/hashimagg"
       />
     </div>
   </CardImage>
