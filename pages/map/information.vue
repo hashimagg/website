@@ -191,9 +191,9 @@
         <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
       </div>
     </Detail>
-    <Detail name="Economy (95%)">
+    <Detail name="Economy (90%)">
       <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 95%" />
+        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
       </div>
     </Detail>
   </CardDetail>

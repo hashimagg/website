@@ -19,7 +19,7 @@
         class="ml-2"
         color="bg-red-500"
       >
-        Soon
+        Not Available
       </Tag>
     </Detail>
   </CardDetail>

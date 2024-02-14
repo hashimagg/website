@@ -207,8 +207,7 @@
         to="https://sketchfab.com/3d-models/tamagotchi-pet-sailor-moon-7cfe1fae9b414f07bcc1d5719bdebf9b"
       >
         Sailor Moon Tamagotchi
-      </NavigationLink> by Aldemona<br />
-      And more in development.
+      </NavigationLink> by Aldemona
     </Detail>
     <Detail name="Events System">
       <NavigationLink
@@ -407,17 +406,17 @@
       </NavigationLink> by Onno<br />
     </Detail>
     <Detail name="Thanks">
-      Big Grampa, Beeker, Bwais, Ceremor, Dez, DrummerxDan, Helkhiana, JohnMclane, Josh, KubeloLive, LAD, leitin, LIVINGxDEAD, Mattty-Ice, Milans, Mystt, OlipollyZ, podrivo, Quinzi, Repearz, skett, Sunday, ThcMonkee, TheFungaltoes, TheGreatJeremy, TLaCroix, TrueDolphin, TuckChaylorZ, uNleashedjp, V, VirusomanVS, Vivi
+      Big Grampa, Beeker, Bwais, Ceremor, clonk_4_ever, Dezouro, DrummerxDan, Helkhiana, ImJustJoshhin, ItsJustSunday, JohnMclane, KubeloLive, LAD, leitin, LIVINGxDEAD, Mattty-Ice, Milans, Mystt, OlipollyZ, podrivo, Quinzi, reaperz2820, skett, ThcMonkee, TheFungaltoes, TheGreatJeremy, TLaCroix, TrueDolphin, TuckChaylorZ, uNleashedjp, V, VirusomanVS, Vivi
     </Detail>
     <Detail name="Brand Kit">
       <NavigationLink
         class="underline"
         color="hover:text-red-500"
         external="true"
-        id="colophon-brand-downloads"
-        to="https://drive.google.com/drive/folders/1th2N6MJz3vZcxPQxUsp1fe7hG4rErMBK?usp=sharing"
+        id="colophon-brand-kit"
+        to="https://github.com/hashimagg/brand"
       >
-        Download Hashima Islands Brand Kit
+        Hashima Islands Brand Kit
       </NavigationLink>
     </Detail>
   </CardDetail>
