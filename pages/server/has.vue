@@ -1,7 +1,7 @@
 <template>
   <Bar
     id="back"
-    title="Extras / H.A.S ™"
+    title="Server / H.A.S ™"
     color="hover:text-red-500"
   />
   <CardImage class="col-span-2">

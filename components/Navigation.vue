@@ -87,6 +87,15 @@
               Mission
             </NavigationLink>
           </li>
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="server-has"
+              to="/server/has"
+            >
+              H.A.S ™
+            </NavigationLink>
+          </li>
         </ul>
       </div>
     </div>
@@ -96,15 +105,6 @@
           Extras
         </HeadingSans>
         <ul role="list" class="mt-6 space-y-3">
-          <li>
-            <NavigationLink
-              color="hover:text-red-500"
-              id="extras-has"
-              to="/extras/has"
-            >
-              H.A.S ™
-            </NavigationLink>
-          </li>
           <li>
             <NavigationLink
               color="hover:text-red-500"
@@ -122,6 +122,16 @@
               external="true"
             >
               Ko-fi Tip
+            </NavigationLink>
+          </li>
+          <li>
+            <NavigationLink
+              color="hover:text-red-500"
+              id="extras-shop"
+              to="https://shop.creepycrappy.show"
+              external="true"
+            >
+              CCShop
             </NavigationLink>
           </li>
         </ul>
