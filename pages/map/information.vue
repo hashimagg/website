@@ -33,7 +33,7 @@
     <div class="bg-[#1b2838]/50 pattern w-full">
       <CardCTA
         title="Download Hashima Islands"
-        description="Currently in development. Coming soon."
+        description="—"
         idPrimary="cta-download-steam"
         labelPrimary="Subscribe on Steam Workshop"
         urlPrimary="https://steamcommunity.com/sharedfiles/filedetails/?id=2781560371"
@@ -45,25 +45,26 @@
   </CardImage>
   <CardText>
     <HeadingSans>
-      Island
+      Zone
     </HeadingSans><br />
     <HeadingSerif class="text-5xl">
-      West Hashima
+      Away
     </HeadingSerif>
     <HeadingSans class="mt-3 block">
-      West Hashima (西端島), aka lung (肺), is an island located West of New Hashima (新端島).
+      Away (遠さ), aka brain (脳), is a contaminated zone located Northwest of New Hashima (新端島).
     </HeadingSans>
   </CardText>
   <CardDetail>
-    <Detail name="City">
-      Haruki City (春木市), is a city located in West Hashima (西端島).
-    </Detail>
     <Detail name="POI">
-      <div class="space-y-4">
-        <div>
-          Eiko Stadium (エイコースタジアム), is a football stadium located West of Haruki City (春木市).
-        </div>
-      </div>
+      <NavigationLink
+        color="hover:text-red-500"
+        class="underline"
+        external="true"
+        id="colophon-powwws"
+        to="https://poww.ws"
+      >
+        POWWWS Laboratory
+      </NavigationLink> Diag, is a testing site located in Away (遠さ).
     </Detail>
   </CardDetail>
   <CardText>
@@ -103,6 +104,22 @@
   </CardDetail>
   <CardText>
     <HeadingSans>
+      Island
+    </HeadingSans><br />
+    <HeadingSerif class="text-5xl">
+      Obake
+    </HeadingSerif>
+    <HeadingSans class="mt-3 block">
+      Obake (おばけ), aka spirit (精神), is an island located Southeast of New Hashima (新端島).
+    </HeadingSans>
+  </CardText>
+  <CardDetail>
+    <Detail name="City">
+      Kodama City (木魅), is a city located in Obake (おばけ).
+    </Detail>
+  </CardDetail>
+  <CardText>
+    <HeadingSans>
       Zone
     </HeadingSans><br />
     <HeadingSerif class="text-5xl">
@@ -122,78 +139,24 @@
   </CardDetail>
   <CardText>
     <HeadingSans>
-      Zone
-    </HeadingSans><br />
-    <HeadingSerif class="text-5xl">
-      Away
-    </HeadingSerif>
-    <HeadingSans class="mt-3 block">
-      Away (遠さ), aka brain (脳), is a contaminated zone located Northwest of New Hashima (新端島).
-    </HeadingSans>
-  </CardText>
-  <CardDetail>
-    <Detail name="POI">
-      <NavigationLink
-        color="hover:text-red-500"
-        class="underline"
-        external="true"
-        id="colophon-powwws"
-        to="https://poww.ws"
-      >
-        POWWWS Laboratory
-      </NavigationLink> Diag, is a testing site located in Away (遠さ).
-    </Detail>
-  </CardDetail>
-  <CardText>
-    <HeadingSans>
       Island
     </HeadingSans><br />
     <HeadingSerif class="text-5xl">
-      Obake
+      West Hashima
     </HeadingSerif>
     <HeadingSans class="mt-3 block">
-      Obake (おばけ), aka spirit (精神), is an island located Southeast of New Hashima (新端島).
+      West Hashima (西端島), aka lung (肺), is an island located West of New Hashima (新端島).
     </HeadingSans>
   </CardText>
   <CardDetail>
     <Detail name="City">
-      Kodama City (木魅), is a city located in Obake (おばけ).
+      Haruki City (春木市), is a city located in West Hashima (西端島).
     </Detail>
-  </CardDetail>
-  <CardDetail class="col-span-2">
-    <Detail name="West Hashima (80%)">
-      <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 80%" />
-      </div>
-    </Detail>
-    <Detail name="East Hashima (75%)">
-      <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 75%" />
-      </div>
-    </Detail>
-    <Detail name="New Hashima (100%)">
-      <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
-      </div>
-    </Detail>
-    <Detail name="Path (100%)">
-      <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
-      </div>
-    </Detail>
-    <Detail name="Away (100%)">
-      <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
-      </div>
-    </Detail>
-    <Detail name="Obake (100%)">
-      <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-green-600 text-white text-center" style="width: 100%" />
-      </div>
-    </Detail>
-    <Detail name="Economy (90%)">
-      <div class="overflow-hidden rounded-full bg-zinc-800">
-        <div class="h-3 rounded-full bg-red-600 text-white text-center" style="width: 90%" />
+    <Detail name="POI">
+      <div class="space-y-4">
+        <div>
+          Eiko Stadium (エイコースタジアム), is a football stadium located West of Haruki City (春木市).
+        </div>
       </div>
     </Detail>
   </CardDetail>
@@ -201,7 +164,7 @@
     <div class="bg-indigo-900/50 pattern w-full">
       <CardCTA
         title="Join the Discord Channel"
-        description="for full access on the development, updates, screenshots, videos and more."
+        description="For full access on the development, updates, screenshots, videos and more."
         idPrimary="cta-discord"
         labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"

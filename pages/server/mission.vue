@@ -11,7 +11,7 @@
     <div class="bg-[#1b2838]/50 pattern w-full">
       <CardCTA
         title="Download Mission Files"
-        description="Currently in development. Coming soon."
+        description="—"
         idPrimary="cta-download-steam"
         labelPrimary="Download Mission Files"
         urlPrimary="https://github.com/hashimagg/mission"
@@ -25,7 +25,7 @@
     <div class="bg-indigo-900/50 pattern w-full">
       <CardCTA
         title="Join the Discord Channel"
-        description="for full access on the development, updates, screenshots, videos and more."
+        description="For full access on the development, updates, screenshots, videos and more."
         idPrimary="cta-discord"
         labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
@@ -38,7 +38,7 @@
   <CardMain
     class="rounded-b-none sm:rounded-bl-lg sm:rounded-br-none pattern"
     color="group-hover:text-red-500"
-    description="Overview and Development Status"
+    description="Overview"
     id="more-map-information"
     label="Map"
     title="Information"

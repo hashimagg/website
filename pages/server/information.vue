@@ -8,25 +8,25 @@
       HASHIMA.GG — Hashima Islands (Official)
     </Detail>
     <Detail name="Slots">
-      40
+      30
     </Detail>
     <Detail name="IP">
-      <Tag
-        class="ml-2"
-        color="bg-red-500"
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="server-ip"
+        to="https://discord.gg/Uap8rwekfA"
       >
-        Soon
-      </Tag>
-    </Detail>
-    <Detail name="Region">
-      —
+        Join the Discord
+      </NavigationLink>
     </Detail>
   </CardDetail>
   <CardImage class="col-span-2">
     <div class="bg-indigo-900/50 pattern w-full">
       <CardCTA
         title="Join the Discord Channel"
-        description="for full access on the development, updates, screenshots, videos and more."
+        description="For full access on the development, updates, screenshots, videos and more."
         idPrimary="cta-discord"
         labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
@@ -39,7 +39,7 @@
   <CardMain
     class="rounded-b-none sm:rounded-bl-lg sm:rounded-br-none pattern"
     color="group-hover:text-red-500"
-    description="Overview and Development Status"
+    description="Overview"
     id="more-map-information"
     label="Map"
     title="Information"

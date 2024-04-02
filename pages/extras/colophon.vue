@@ -126,6 +126,33 @@
       >
         Kit Kokeshi
       </NavigationLink> by marzipanne<br />
+      Kit Neon Signs <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-kit-neon-signs"
+        to="https://cgtrader.com/free-3d-models/exterior/street-exterior/game-ready-japanese-signs-set-sign-neon-small-vertical"
+      >
+        #01
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-kit-neon-signs"
+        to="https://cgtrader.com/3d-models/exterior/street-exterior/game-ready-plastic-signs-02"
+      >
+        #02
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-kit-neon-signs"
+        to="https://cgtrader.com/3d-models/exterior/street-exterior/game-ready-japanese-signs-set-plastic-signs-01"
+      >
+        #03
+      </NavigationLink> by alexbes<br />
       Kit Signs by CreepyCrappyShow<br />
       <NavigationLink
         class="underline"
@@ -214,11 +241,50 @@
         class="underline"
         color="hover:text-red-500"
         external="true"
-        id="colophon-events-system"
-        to="https://x.com/livingxdead666"
+        id="colophon-livingxdead"
+        to="https://x.com/livingxdead"
       >
         LIVINGxDEAD
       </NavigationLink>
+    </Detail>
+    <Detail name="CreepyCrappyCrew">
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-beeker_"
+        to="https://twitch.tv/beeker_"
+      >
+        Beeker_
+      </NavigationLink><br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-dezouro"
+        to="https://twitch.tv/dezouro"
+      >
+      Dezouro
+      </NavigationLink><br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-podrivo"
+        to="https://twitch.tv/podrivo"
+      >
+      podrivo
+      </NavigationLink><br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-quinzi"
+        to="https://twitch.tv/quinzi"
+      >
+      Quinzi
+      </NavigationLink><br />
+      Vivi
     </Detail>
     <Detail name="Tools">
       <NavigationLink
@@ -406,7 +472,195 @@
       </NavigationLink> by Onno<br />
     </Detail>
     <Detail name="Thanks">
-      Big Grampa, Beeker, Bwais, Ceremor, clonk_4_ever, Dezouro, DrummerxDan, Helkhiana, ImJustJoshhin, ItsJustSunday, JohnMclane, KubeloLive, LAD, leitin, LIVINGxDEAD, Mattty-Ice, Milans, Mystt, OlipollyZ, podrivo, Quinzi, reaperz2820, skett, ThcMonkee, TheFungaltoes, TheGreatJeremy, TLaCroix, TrueDolphin, TuckChaylorZ, uNleashedjp, V, VirusomanVS, Vivi
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-biggrampa"
+        to="https://www.twitch.tv/biggrampa"
+      >
+      Big Grampa
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-bakedbee"
+        to="https://twitch.tv/bakedbee"
+      >
+      bakedbee
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-ceremor"
+        to="https://twitch.tv/ceremor"
+      >
+      Ceremor
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-clonk_4_ever"
+        to="https://twitch.tv/clonk_4_ever"
+      >
+      clonk_4_ever
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-deathbringerttv"
+        to="https://twitch.tv/deathbringerttv"
+      >
+      DeathbringerTTV
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-echoics"
+        to="https://twitch.tv/echoics"
+      >
+      Echoics
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-evey"
+        to="https://twitch.tv/evey"
+      >
+      Evey
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-heyyouvideogame"
+        to="https://twitch.tv/heyyouvideogame"
+      >
+      HeyYouVideoGame
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-holliedayz"
+        to="https://twitch.tv/holliedayz"
+      >
+      holliedayz
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-imjustjoshhin"
+        to="https://twitch.tv/imjustjoshhin"
+      >
+      ImJustJoshhin
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-itsjustsunday"
+        to="https://twitch.tv/itsjustsunday"
+      >
+      ItsJustSunday
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-kaitiac"
+        to="https://twitch.tv/kaitiac"
+      >
+      Kaitiac
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-kubelolive"
+        to="https://twitch.tv/kubelolive"
+      >
+      KubeloLive
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-leitin"
+        to="https://twitch.tv/leitin"
+      >
+      leitin
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-reaperz2820"
+        to="https://twitch.tv/reaperz2820"
+      >
+      reaperz2820
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-tuckchaylorz"
+        to="https://x.com/JeremyRoyWolf"
+      >
+      TheGreatJeremy
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-themystt"
+        to="https://twitch.tv/themystt"
+      >
+      TheMystt
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-tuckchaylorz"
+        to="https://twitch.tv/tuckchaylorz"
+      >
+      TuckChaylorZ
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-tvdinnerfromspace"
+        to="https://twitch.tv/tvdinnerfromspace"
+      >
+      tvdinnerfromspace
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-unleashedjp"
+        to="https://twitch.tv/unleashedjp"
+      >
+      uNleashedjp
+      </NavigationLink>
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-vellitrix"
+        to="https://twitch.tv/vellitrix"
+      >
+      Vellitrix
+      </NavigationLink>
     </Detail>
     <Detail name="Brand Kit">
       <NavigationLink
@@ -424,7 +678,7 @@
     <div class="bg-indigo-900/50 pattern w-full">
       <CardCTA
         title="Join the Discord Channel"
-        description="for full access on the development, updates, screenshots, videos and more."
+        description="For full access on the development, updates, screenshots, videos and more."
         idPrimary="cta-discord"
         labelPrimary="Join the Discord"
         urlPrimary="https://discord.gg/Uap8rwekfA"
@@ -437,7 +691,7 @@
   <CardMain
     class="rounded-b-none sm:rounded-bl-lg sm:rounded-br-none pattern"
     color="group-hover:text-red-500"
-    description="Overview and Development Status"
+    description="Overview"
     id="more-map-information"
     label="Map"
     title="Information"
