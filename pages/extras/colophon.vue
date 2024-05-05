@@ -65,6 +65,33 @@
         class="underline"
         color="hover:text-red-500"
         external="true"
+        id="colophon-entrance-panel"
+        to="https://sketchfab.com/3d-models/entrance-1286-door-panel-6b841ba924e64c7ebb1463e3868bb5c0"
+      >
+        Entrance 1286 Door Panel
+      </NavigationLink> by lumoize<br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-film-reel-case"
+        to="https://sketchfab.com/3d-models/film-reel-ed2f560e03394c61acac3f097db6e8a6"
+      >
+        Film Reel Case
+      </NavigationLink> by fisherfx.pro<br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-folded-wrinkled-paper"
+        to="https://sketchfab.com/3d-models/folded-wrinkled-paper-9a1d10ebb9a241ffa37b6f6df4adc1f0"
+      >
+        Folded Wrinkled Paper
+      </NavigationLink> by podo3d<br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
         id="colophon-ghost-in-the-shell"
         to="https://sketchfab.com/3d-models/ghost-in-the-shell-geisha-mask-79df6677512249e9b98b898676182e1b"
       >
@@ -101,6 +128,15 @@
         class="underline"
         color="hover:text-red-500"
         external="true"
+        id="colophon-id-card"
+        to="https://sketchfab.com/3d-models/umbrella-level-1-id-card-resident-evil-2e8071cbbed84047aa770fe8cf750774"
+      >
+        ID Card
+      </NavigationLink> by Yogensia<br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
         id="colophon-improvised-grenade-launcher"
         to="https://sketchfab.com/3d-models/homemade-chechen-grenade-launcher-380adec8d2ba4c1fb3b8750bd56c4048"
       >
@@ -116,16 +152,25 @@
         Kit Arcades
       </NavigationLink> by Renafox<br />
       Kit Billboards by CreepyCrappyShow<br />
-      Kit Misc by CreepyCrappyShow<br />
       <NavigationLink
-        class="underline"
-        color="hover:text-red-500"
-        external="true"
-        id="colophon-kit-kokeshi"
-        to="https://sketchfab.com/3d-models/kokeshi-b6e8fb429f5f4da496eea82e44d6aa52"
+      class="underline"
+      color="hover:text-red-500"
+      external="true"
+      id="colophon-kit-kokeshi"
+      to="https://sketchfab.com/3d-models/kokeshi-b6e8fb429f5f4da496eea82e44d6aa52"
       >
-        Kit Kokeshi
-      </NavigationLink> by marzipanne<br />
+      Kit Kokeshi
+    </NavigationLink> by marzipanne<br />
+    <NavigationLink
+      class="underline"
+      color="hover:text-red-500"
+      external="true"
+      id="colophon-kit-lamps"
+      to="https://sketchfab.com/3d-models/japanese-lantern-collection-879b6ed154ba44b49c2a83671158e011"
+    >
+      Kit Lamps
+    </NavigationLink> by Sousinho<br />
+      Kit Misc by CreepyCrappyShow<br />
       Kit Neon Signs <NavigationLink
         class="underline"
         color="hover:text-red-500"
@@ -176,11 +221,30 @@
         class="underline"
         color="hover:text-red-500"
         external="true"
+        id="colophon-mystery-masks"
+        to="https://sketchfab.com/3d-models/mystery-masks-ca2ed08000ec47b0862d964d770872c9"
+      >
+        Mystery Masks
+      </NavigationLink> by aidinsalsabili<br />
+
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
         id="colophon-nintendo-64-cart"
         to="https://sketchfab.com/3d-models/nintendo-64-cart-7b93f9cb196743009c2211a5e47643d8"
       >
         Nintendo 64 Cart
       </NavigationLink> by Chris Sweetwood<br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-oxo-tamagotchi"
+        to ="https://sketchfab.com/3d-models/draftpunk-hw10-game-ready-asset-tamagotchi-2311779775cb42a5ac81c4a378af176e"
+      >
+        OXO Tamagotchi
+      </NavigationLink> by nyancube<br />
       <NavigationLink
         class="underline"
         color="hover:text-red-500"
@@ -212,29 +276,48 @@
         class="underline"
         color="hover:text-red-500"
         external="true"
-        id="colophon-twin-peaks"
-        to="https://sketchfab.com/3d-models/twin-peaks-old-grand-northen-hotel-key-tag-ed68fa16a87f4208a969b340b196e722"
-      >
-        Twin Peaks Key Tag
-      </NavigationLink> by Edoardo Galati<br />
-      <NavigationLink
-        class="underline"
-        color="hover:text-red-500"
-        external="true"
-        id="colophon-oxo-tamagotchi"
-        to ="https://sketchfab.com/3d-models/draftpunk-hw10-game-ready-asset-tamagotchi-2311779775cb42a5ac81c4a378af176e"
-      >
-        OXO Tamagotchi
-      </NavigationLink> by nyancube<br />
-      <NavigationLink
-        class="underline"
-        color="hover:text-red-500"
-        external="true"
         id="colophon-sailor-moon-tamagotchi"
         to="https://sketchfab.com/3d-models/tamagotchi-pet-sailor-moon-7cfe1fae9b414f07bcc1d5719bdebf9b"
       >
         Sailor Moon Tamagotchi
-      </NavigationLink> by Aldemona
+      </NavigationLink> by Aldemona<br />
+
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-stone-lantern"
+        to="https://sketchfab.com/3d-models/stone-lantern-6af7ce4c8d9d4e82b450507c2c8bb0cb"
+      >
+        Stone Lantern
+      </NavigationLink> by Aeri<br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-toilet-paper"
+        to="https://sketchfab.com/3d-models/toilet-paper-roll-ea0cf48616e34708b73c82eb7c7366ca"
+      >
+        Toilet Paper Roll
+      </NavigationLink> by jaxmoss<br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-torii-gate"
+        to="https://sketchfab.com/3d-models/tori-3c684d2053264cbdaa067ac96cb4f82e"
+      >
+        Torii Gate
+      </NavigationLink> by Studio Lab<br />
+      <NavigationLink
+        class="underline"
+        color="hover:text-red-500"
+        external="true"
+        id="colophon-twin-peaks"
+        to="https://sketchfab.com/3d-models/twin-peaks-old-grand-northen-hotel-key-tag-ed68fa16a87f4208a969b340b196e722"
+      >
+        Twin Peaks Key Tag
+      </NavigationLink> by Edoardo Galati
     </Detail>
     <Detail name="Events System">
       <NavigationLink
