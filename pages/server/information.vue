@@ -1,5 +1,10 @@
 <template>
-  <Bar title="Server / Information" />
+  <Bar
+    id="back"
+    title="Server / Information"
+    color="hover:text-red-500"
+  />
+  <CardCTADownload />
   <CardImage class="col-span-2">
     <img src="~assets/images/hashima-server.png" width="2560" height="1440" alt="HASHIMA.GG Server Screenshot" />
   </CardImage>
@@ -39,11 +44,11 @@
   <CardMain
     class="rounded-b-none sm:rounded-bl-lg sm:rounded-br-none pattern"
     color="group-hover:text-red-500"
-    description="Overview"
-    id="more-map-information"
-    label="Map"
-    title="Information"
-    url="/map/information"
+    description="Credits and Thanks"
+    id="more-about-colophon"
+    label="About"
+    title="Colophon"
+    url="/about/colophon"
   />
   <CardMain
     class="rounded-b-lg sm:rounded-bl-none sm:rounded-br-lg pattern"

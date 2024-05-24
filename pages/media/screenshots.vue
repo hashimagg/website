@@ -4,6 +4,7 @@
     title="Media / Screenshots"
     color="hover:text-red-500"
   />
+  <CardCTADownload />
   <CardImage class="col-span-2">
     <img src="~assets/images/hashima-1.png" width="2560" height="1440" alt="Hashima Islands Screenshot" />
   </CardImage>
@@ -34,28 +35,15 @@
   <CardImage class="col-span-2">
     <img src="~assets/images/hashima-10.png" width="2560" height="1440" alt="Hashima Islands Screenshot" />
   </CardImage>
-  <CardImage class="col-span-2">
-    <div class="bg-indigo-900/50 pattern w-full">
-      <CardCTA
-        title="Join the Discord Channel"
-        description="For full access on the development, updates, screenshots, videos and more."
-        idPrimary="cta-discord"
-        labelPrimary="Join the Discord"
-        urlPrimary="https://discord.gg/Uap8rwekfA"
-        idSecondary="cta-x"
-        labelSecondary="Follow @hashimagg on X"
-        urlSecondary="https://x.com/hashimagg"
-      />
-    </div>
-  </CardImage>
+  <CardCTADiscord />
   <CardMain
     class="rounded-b-none sm:rounded-bl-lg sm:rounded-br-none pattern"
     color="group-hover:text-red-500"
-    description="Overview"
-    id="more-map-information"
-    label="Map"
-    title="Information"
-    url="/map/information"
+    description="Credits and Thanks"
+    id="more-about-colophon"
+    label="About"
+    title="Colophon"
+    url="/about/colophon"
   />
   <CardMain
     class="rounded-b-lg sm:rounded-bl-none sm:rounded-br-lg pattern"

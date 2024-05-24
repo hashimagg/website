@@ -3,34 +3,26 @@
     <div class="space-y-12">
       <div>
         <HeadingSans>
-          Map
+          About
         </HeadingSans>
         <ul role="list" class="mt-6 space-y-3">
           <li>
             <NavigationLink
               color="hover:text-red-500"
-              id="map-information"
-              to="/map/information"
+              id="about-database"
+              to="https://db.hashima.gg"
+              external="true"
             >
-              Information
+              Database
             </NavigationLink>
           </li>
           <li>
             <NavigationLink
               color="hover:text-red-500"
-              id="map-timeline"
-              to="/map/timeline"
+              id="about-colophon"
+              to="/about/colophon"
             >
-              Timeline
-            </NavigationLink>
-          </li>
-          <li>
-            <NavigationLink
-              color="hover:text-red-500"
-              id="map-assets"
-              to="/map/assets"
-            >
-              Assets
+              Colophon
             </NavigationLink>
           </li>
         </ul>
@@ -87,7 +79,7 @@
               Mission
             </NavigationLink>
           </li>
-          <li>
+          <!-- <li>
             <NavigationLink
               color="hover:text-red-500"
               id="server-has"
@@ -95,7 +87,7 @@
             >
               H.A.S ™
             </NavigationLink>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div>
@@ -105,15 +97,6 @@
           Extras
         </HeadingSans>
         <ul role="list" class="mt-6 space-y-3">
-          <li>
-            <NavigationLink
-              color="hover:text-red-500"
-              id="extras-colophon"
-              to="/extras/colophon"
-            >
-              Colophon
-            </NavigationLink>
-          </li>
           <li>
             <NavigationLink
               color="hover:text-red-500"
