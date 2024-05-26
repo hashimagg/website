@@ -336,10 +336,10 @@
         class="underline"
         color="hover:text-red-500"
         external="true"
-        id="colophon-beeker_"
-        to="https://twitch.tv/beeker_"
+        id="colophon-beekerr_"
+        to="https://twitch.tv/beekerr_"
       >
-        Beeker_
+        Beekerr_
       </NavigationLink><br />
       <NavigationLink
         class="underline"
