@@ -44,11 +44,11 @@
   <CardMain
     class="rounded-b-none sm:rounded-bl-lg sm:rounded-br-none pattern"
     color="group-hover:text-red-500"
-    description="Credits and Thanks"
-    id="more-about-colophon"
-    label="About"
-    title="Colophon"
-    url="/about/colophon"
+    description="Mision files for Hashima Islands"
+    id="more-server-mission"
+    label="Server"
+    title="Mission Files"
+    url="/server/mission"
   />
   <CardMain
     class="rounded-b-lg sm:rounded-bl-none sm:rounded-br-lg pattern"

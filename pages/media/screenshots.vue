@@ -39,11 +39,11 @@
   <CardMain
     class="rounded-b-none sm:rounded-bl-lg sm:rounded-br-none pattern"
     color="group-hover:text-red-500"
-    description="Credits and Thanks"
-    id="more-about-colophon"
-    label="About"
-    title="Colophon"
-    url="/about/colophon"
+    description="HASHIMA.GG — Hashima Islands (Official)"
+    id="more-server-information"
+    label="Server"
+    title="Information"
+    url="/server/information"
   />
   <CardMain
     class="rounded-b-lg sm:rounded-bl-none sm:rounded-br-lg pattern"

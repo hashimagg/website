@@ -20,7 +20,8 @@
             <NavigationLink
               color="hover:text-red-500"
               id="about-colophon"
-              to="/about/colophon"
+              to="https://db.hashima.gg/Resources/Colophon"
+              external="true"
             >
               Colophon
             </NavigationLink>
