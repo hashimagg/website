@@ -10,10 +10,10 @@
   </CardImage>
   <CardDetail class="col-span-2">
     <Detail name="Name">
-      HASHIMA.GG — Hashima Islands (Official)
+      [CCS] HASHIMA.GG — Hashima Islands (Official)
     </Detail>
     <Detail name="Slots">
-      30
+      35
     </Detail>
     <Detail name="IP">
       <NavigationLink

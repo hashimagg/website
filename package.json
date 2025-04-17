@@ -8,12 +8,8 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@tailwindcss/aspect-ratio": "0.4.2",
-    "autoprefixer": "10.4.20",
-    "nuxt": "3.14.1592",
-    "postcss": "8.4.49",
-    "sass": "1.82.0",
-    "sass-loader": "16.0.4",
-    "tailwindcss": "3.4.16"
+    "nuxt": "3.16.1",
+    "tailwindcss": "4.1.1",
+    "@tailwindcss/vite": "4.1.1"
   }
 }

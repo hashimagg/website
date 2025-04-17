@@ -1,12 +1,12 @@
 <template>
   <CardImage class="col-span-2">
-    <div class="w-full aspect-w-16 aspect-h-9">
-      <iframe class="w-full" width="560" height="315" src="https://www.youtube.com/embed/1r6onMKCYrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="w-full aspect-video">
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/1r6onMKCYrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardCTADownload />
   <CardImage>
-    <div class=" w-full aspect-w-1 aspect-h-1 rounded-full flex bg-red-600" />
+    <div class=" w-full aspect-square rounded-full flex bg-red-600" />
   </CardImage>
   <CardText>
     <HeadingSans>

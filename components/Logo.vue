@@ -1,5 +1,5 @@
 <template>
-  <svg viewBox="0 0 2487 1999" id="hashima" class="h-16 w-auto max-w-full sticky top-24 text-white fill-current">
+  <svg viewBox="0 0 2487 1999" id="hashima" class="h-16 w-auto max-w-full text-white fill-current">
     <line x1="29.2" y1="27.9" x2="29.2" y2="445"/>
     <line x1="29.2" y1="227.2" x2="230.9" y2="227.2"/>
     <line x1="230.6" y1="27.9" x2="230.6" y2="445"/>
