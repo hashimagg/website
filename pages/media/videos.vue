@@ -7,52 +7,57 @@
   <CardCTADownload />
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/1r6onMKCYrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/watch?v=843GDvtpMWM" title="Hashima Islands 端島 1.0.0 — DayZ Map" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/BVPAdBtAUDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/1r6onMKCYrA" title="Hashima Islands 端島 — DayZ Map Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/QEFJjjM8w6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/BVPAdBtAUDQ" title="2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/Fl329viBObA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/QEFJjjM8w6A" title="U0FLVVJB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/fXu_ZTwDKMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/Fl329viBObA" title="HORDESHAKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/v1waKj2u4Zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/fXu_ZTwDKMM" title="死屍累累" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/dH2PqVuYL58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/v1waKj2u4Zo" title="Hashima Islands 端島 — DayZ Map Teaser #5 (feat. 回路, Kairo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/pccyAtW3dUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/dH2PqVuYL58" title="Hashima Islands 端島 — DayZ Map Teaser #4 (feat. 馬渡松子, Yū Yū Hakusho)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/glMviq1KBvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/pccyAtW3dUk" title="Hashima Islands 端島 — DayZ Map Teaser #3 (feat. Vincent Bell, Airport Love Theme)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardImage class="col-span-2">
     <div class="w-full aspect-video">
-      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/GdN1GVsXvkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/glMviq1KBvI" title="Hashima Islands 端島 — DayZ Map Teaser #2 (feat. Blur, FIFA 98)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+  </CardImage>
+  <CardImage class="col-span-2">
+    <div class="w-full aspect-video">
+      <iframe class="w-full h-full" width="560" height="315" src="https://www.youtube.com/embed/GdN1GVsXvkU" title="Hashima Islands 端島 — DayZ Map Teaser #1 (feat. Teriyaki Boyz, Fast and Furious)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </CardImage>
   <CardCTADiscord />
